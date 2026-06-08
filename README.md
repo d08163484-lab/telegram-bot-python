@@ -43,6 +43,7 @@ telegram-bot-python/
 ├── requirements.txt  # Зависимости проекта
 ├── .env.example      # Шаблон переменных окружения
 ├── .gitignore        # Исключения для Git
+├── finance_share.ipynb # Файл по аналитике транзакций с акциями
 └── README.md         # Документация
 ```
 
